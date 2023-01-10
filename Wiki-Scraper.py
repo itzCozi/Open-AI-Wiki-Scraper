@@ -30,7 +30,7 @@ def menu():
   4. Change Lang
   5. Exit
   ''')
-  men_opt = input("What would you like to do? "+Fore.Blue)
+  men_opt = input("What would you like to do? "+Fore.BLUE)
   if men_opt == "1":
     search()
   if men_opt == "2":
