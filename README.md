@@ -10,3 +10,6 @@ A Wiki-page scraper for students and devs. (Includes Open-AI CLI)
 
 
 Please dont hesitate to create a pull request or issue.
+
+@footer
+Free Open-Source Software
