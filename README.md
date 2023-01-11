@@ -30,7 +30,6 @@ links: Print all links in the article
 
 
 
-
 ### Footer
 Please dont hesitate to create a pull request or issue. 
 Open-Source
