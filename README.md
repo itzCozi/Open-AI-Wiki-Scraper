@@ -1,6 +1,7 @@
 # Open-AI-Wiki-Scraper-Tool
 
-A Wiki-page scraper for everyone, finaly released this to Open-Source.
+A Wiki-page scraper for everyone, finaly released this to Open-Source it helped me when learning in school and
+independently at home. I also released this so more people will use Open-Source information.
 
 
 ## Installation
@@ -14,22 +15,16 @@ A Wiki-page scraper for everyone, finaly released this to Open-Source.
 ## Usage
 
 ### Navigation
-Up Arrow: Move cursor up
-Down Arrow: Move cursor down
-Left Arrow: Move cursor left
-Right Arrow: Move cursor right
-Enter: Select value
+Up Arrow: __________________ Move cursor up
+Down Arrow: __________________ Move cursor down
+Left Arrow: __________________ Move cursor left
+Right Arrow: __________________ Move cursor right
+Enter: __________________ Select value
 
 ### Commands
-sum: Prints summary of article
-title: Shows the title of the article
-url: Displays the page URL
-full: Print the full article
-img: Show all images in article
-links: Print all links in the article
-
-
-
-### Footer
-Please dont hesitate to create a pull request or issue. 
-Open-Source
+sum: __________________ Prints summary of article
+title: __________________ Shows the title of the article
+url: __________________ Displays the page URL
+full: __________________ Print the full article
+img: __________________ Show all images in article
+links: __________________ Print all links in the article
