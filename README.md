@@ -32,3 +32,9 @@ img: __________________ Show all images in article
 links: __________________ Print all links in the article
 
 -----------------------------------------------------------------------------
+
+### Contact Me
+
+Discord: BadDeveloper#4200
+Email: Cooperransom08@outlook.com
+[Replit](https://replit.com/@cozi08) | [Twitter](https://twitter.com/ransom_cooper)
