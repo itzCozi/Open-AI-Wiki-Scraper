@@ -17,24 +17,24 @@ independently at home. I also released this so more people will use Open-Source 
 ## Usage
 
 ### Navigation
-Up Arrow: __________________ Move cursor up
-Down Arrow: __________________ Move cursor down
-Left Arrow: __________________ Move cursor left
-Right Arrow: __________________ Move cursor right
-Enter: __________________ Select value
+Up Arrow: __________________ Move cursor up                                                                                                   
+Down Arrow: __________________ Move cursor down                                                                                                 
+Left Arrow: __________________ Move cursor left                                                                                                 
+Right Arrow: __________________ Move cursor right                                                                                                 
+Enter: __________________ Select value                                                                                                 
 
 ### Commands
-sum: __________________ Prints summary of article
-title: __________________ Shows the title of the article
-url: __________________ Displays the page URL
-full: __________________ Print the full article
-img: __________________ Show all images in article
-links: __________________ Print all links in the article
+sum: __________________ Prints summary of article                                                                                                 
+title: __________________ Shows the title of the article                                                                                                 
+url: __________________ Displays the page URL                                                                                                 
+full: __________________ Print the full article                                                                                                 
+img: __________________ Show all images in article                                                                                                 
+links: __________________ Print all links in the article                                                                                                 
 
 -----------------------------------------------------------------------------
 
 ### Contact Me
 
-Discord: BadDeveloper#4200
-Email: Cooperransom08@outlook.com
+Discord: BadDeveloper#4200                                                                                                 
+Email: Cooperransom08@outlook.com                                                                                                 
 [Replit](https://replit.com/@cozi08) | [Twitter](https://twitter.com/ransom_cooper)
